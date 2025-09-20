@@ -90,13 +90,12 @@ Upload traffic images/videos to get real-time predictions.
 
 📈 Results
 
-Accuracy: XX% (on held-out test set)
+Accuracy: 97.7% (on held-out test set)
 
 Inference Speed: Real-time processing for video input
 
 Generalization: Performs reliably under varying weather and lighting
 
-(Replace XX% with your test accuracy)
 
 🔮 Roadmap
 
@@ -108,7 +107,7 @@ Integration with navigation APIs (e.g., Google Maps, Waze)
 
 👥 Contributors
 
-Your Name – @yourgithub
+Your Name – @Yusuf032
 
 📜 License
 
